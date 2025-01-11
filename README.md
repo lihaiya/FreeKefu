@@ -1,5 +1,5 @@
 # FreeKefu客服系统
-客服系统，客服，客户服务中心，客户服务，呼叫中心，工单系统，Java语言，前端VUE！！！！！
+客服系统，客服，客户服务中心，客户服务，呼叫中心，工单系统，Java语言，前端VUE！！！！！！
 
 ## 😄完整性:前端、后端、数据库，齐全！
 ## 😄持续性:2014年至今持续迭代
@@ -9,7 +9,7 @@
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## 2025.01.10最新demo链接enjoy😄：
+## 2025.01.11最新demo链接enjoy😄：
 
 1，话务/在线客服chatbot：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
