@@ -3,7 +3,7 @@
 
 ## 😄完整性：前端、后端、数据库，齐全！功能全开、不设限！不分什么社区版、商业版！
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
-## 😄持续性：2014年至今持续迭代，团队成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义，经验丰富！
+## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
 ## - 📫 How to reach us 📫:
 - 官方WeChat:freeipcc
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
