@@ -6,6 +6,7 @@
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
 ## - 📫 How to reach us 📫:
 - 官方WeChat:freeipcc
+- Whatsapp：<a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">Click WhatsApp to Chat</a>
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
