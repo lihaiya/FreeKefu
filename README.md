@@ -6,6 +6,11 @@
 ## 😄功能完整性：话务系统，工单系统，IM在线客服系统，录音系统，功能齐全、不设限！
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
 ## 😄长期目标：引领呼叫中心行业发展，将大模型呼叫中心能力，赋能1万家集成商，服务120万个客户！
+## 😄大客户案例：电信、华数（广电）、联通，四大运营商已合作三家（移动400业务覆盖有限）！Major customer cases: China Telecom, Wasu (Radio and Television), China Unicom, and three of the four major operators have cooperated (China Mobile's 400 business coverage is limited)!
+<img src="https://github.com/user-attachments/assets/68baf9a8-d8d7-4ae1-bbb2-06eb5c874415" width="300" height="100">
+<img src="https://github.com/user-attachments/assets/6e2f8cc1-131b-477c-bcb1-bbb8f39990e5" width="200" height="100">
+<img src="https://github.com/user-attachments/assets/8ffb1298-a1de-45e4-9384-b9682715f197" width="300" height="100">
+
 ## - 📫 How to reach us 📫:
 - 官方WeChat01:freeipcc
 - 官方WeChat02:freeaicc
