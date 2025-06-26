@@ -1,5 +1,5 @@
 # FreeKefu客服系统
-客服系统，客服，系统，客户服务中心，客户服务，呼叫中心，工单系统，Java语言，前端VUE!!!!!!!!!
+客服系统，客服，系统，客户服务中心，客户服务，呼叫中心，工单系统，Java语言，前端VUE!
 
 # 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄代码完整性：前端、后端、数据库，齐全！全开、不设限！不分什么社区版、商业版！
@@ -17,7 +17,7 @@
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
-## 2025.06.23新demo链接enjoy😄：
+## 2025.06.26新demo链接enjoy😄：
 
 1，话务/在线客服chatbot：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
