@@ -1,23 +1,30 @@
 # FreeKefu客服系统
-客服系统，客服，系统，客户服务中心，客户服务，呼叫中心，工单系统，Java语言，前端VUE!!!!!!!
+客服系统，客服，系统，客户服务中心，客户服务，呼叫中心，工单系统，Java语言，前端VUE!
 
 # 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄代码完整性：前端、后端、数据库，齐全！全开、不设限！不分什么社区版、商业版！
 ## 😄功能完整性：话务系统，工单系统，IM在线客服系统，录音系统，功能齐全、不设限！
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
 ## 😄长期目标：疯狂地为社会创造价值，引领呼叫中心行业发展，将大模型呼叫中心能力，赋能1万家集成商，服务120万个客户！
-## 😄大客户案例：电信、华数（广电）、联通，四大运营商已合作三家（移动400业务覆盖有限）！Major customer cases: China Telecom, Wasu (Radio and Television), China Unicom, and three of the four major operators have cooperated (China Mobile's 400 business coverage is limited)!
+## 😄大客户案例：电信、华数（广电）、联通，四大运营商已合作三家（移动400业务覆盖有限）;三甲医院、中国顶级高校、政府公共部门，都有案例！
+## 😄思科呼叫中心、Avaya呼叫中心，国产平替；也可以对接思科与avaya，利旧系统；国产呼叫中心源头！
+
 <img src="https://github.com/user-attachments/assets/68baf9a8-d8d7-4ae1-bbb2-06eb5c874415" width="300" height="100">
 <img src="https://github.com/user-attachments/assets/6e2f8cc1-131b-477c-bcb1-bbb8f39990e5" width="200" height="100">
 <img src="https://github.com/user-attachments/assets/8ffb1298-a1de-45e4-9384-b9682715f197" width="300" height="100">
 
+<img src="https://github.com/user-attachments/assets/804f4d98-b39d-42ba-acd0-3911243c264e" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/d13ed06c-7ae3-4bea-b1d4-426e7e869af8" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/6f67e4ca-bb24-4431-9bf8-60ac53b1f956" width="300" height="300">
+
 ## - 📫 How to reach us 📫:
 - 官方WeChat01:freeipcc
 - 官方WeChat02:freeaicc
+- 官方WeChat03:easyaicc
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
-## 2025.06.26新demo链接enjoy😄：
+## 2025.06.29新demo链接enjoy😄：
 
 1，话务/在线客服chatbot：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
