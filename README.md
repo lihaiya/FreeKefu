@@ -57,9 +57,7 @@
 
 ## 界面截图
 ![01-freeipcc01](https://github.com/user-attachments/assets/f64e161c-68a1-4e4d-b12e-e910dcab26f8)
-![05-freeipcc09](https://github.com/user-attachments/assets/ddf63606-ddb1-4857-898d-9c95c0bbed98)
 ![06-freeipcc02](https://github.com/user-attachments/assets/45992ac2-ba33-4ffa-8967-7f8bb052ed26)
-![07-freeipcc15](https://github.com/user-attachments/assets/e6833b18-ee95-40be-9e60-5d1ab0977721)
 ![08-freeipcc](https://github.com/user-attachments/assets/aa5d6150-2a3e-4db6-a2b6-69d5daac0714)
 ![09-freeipcc03-FreeAICC](https://github.com/user-attachments/assets/a4cfde78-1c94-4b41-80f6-b0f4e45a0377)
 ![10-freeipcc05](https://github.com/user-attachments/assets/547ac5f2-37e9-4469-8407-05023bac2a54)
