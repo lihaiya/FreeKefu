@@ -27,13 +27,7 @@
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
-## 2025.07.09新demo链接enjoy😄：
-
-1，话务/在线客服chatbot：(demo123/demo123@Abc)
-http://124.220.48.38:8822/cc
-
-2，工单：(demo/123456)
-http://124.220.48.38:80
+## 2025.07.10新demo链接enjoy😄：
 
 注意：如果页面打不开，是因为demo页面正在频受DDo5攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
 ![image](https://github.com/user-attachments/assets/037e63b2-0239-49fc-b54f-6cf0c43b36ce)
@@ -63,9 +57,6 @@ http://124.220.48.38:80
 
 ## 界面截图
 ![01-freeipcc01](https://github.com/user-attachments/assets/f64e161c-68a1-4e4d-b12e-e910dcab26f8)
-![02-freeipcc14](https://github.com/user-attachments/assets/47764469-de7b-46ba-8626-654a90361b24)
-![03-freeipcc04](https://github.com/user-attachments/assets/43bc3b1b-9dc8-4bfc-8d0a-61e3cea7ac2e)
-![04-freeipcc08](https://github.com/user-attachments/assets/18359c61-ee39-4e51-94e5-629855095ea3)
 ![05-freeipcc09](https://github.com/user-attachments/assets/ddf63606-ddb1-4857-898d-9c95c0bbed98)
 ![06-freeipcc02](https://github.com/user-attachments/assets/45992ac2-ba33-4ffa-8967-7f8bb052ed26)
 ![07-freeipcc15](https://github.com/user-attachments/assets/e6833b18-ee95-40be-9e60-5d1ab0977721)
@@ -80,17 +71,6 @@ http://124.220.48.38:80
 ![16-freeipcc13](https://github.com/user-attachments/assets/160c595a-0cf0-465a-99bf-a8e2afea9e6d)
 
 ## 😄每一个用户，都有专属群支持：10人左右，响应更及时
-
-下图是随机抽取的需求对接的群：
-
-![image](https://github.com/user-attachments/assets/c768011a-342f-4f38-a8c5-bb733cd38d47)
-![image](https://github.com/user-attachments/assets/6d64a30a-4dd7-4dd5-a7e5-f56706dd4932)
-![image](https://github.com/user-attachments/assets/e6bfee9e-0c4c-451d-87a5-1c056444ce30)
-![image](https://github.com/user-attachments/assets/be73edc1-999b-472f-b950-e1bf7266c7a0)
-![image](https://github.com/user-attachments/assets/3bd34af5-6a5c-447c-8f38-cd2b0520957a)
-![image](https://github.com/user-attachments/assets/71abf504-db94-4618-ab35-725f5de8c8f8)
-![image](https://github.com/user-attachments/assets/35958ea3-3dc4-45ef-9fe6-7a16cf66c39d)
-![image](https://github.com/user-attachments/assets/e28c4c61-9105-4461-ab68-988bcc14736c)
 
 ## 😄关于源码、付费、许可（我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代）：
 付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。可对公签合同，更有保障！我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
